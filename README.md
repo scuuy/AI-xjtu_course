@@ -1,7 +1,11 @@
 # AI-xjtu_course
 This is a mind map on the course of artificial intelligence(specialized optional course), and the course experiments repo. 
 
+the experiments include subjective Bayes, 9-box reformation, and a paper reading report.
+
 这是西安交通大学人工智能（专业选修课）期末复习重点内容的一个思维导图，以及笔者大作业的实验报告。
+
+包括：主观贝叶斯插值法，重拍九宫问题，以及文献阅读报告。
 
 (建议跳转到flowus官网查看，此处无法正确显示图片）
 
